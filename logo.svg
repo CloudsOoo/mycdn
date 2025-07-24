@@ -1,13 +1,12 @@
-<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 256 256">
   <defs>
-    <linearGradient id="cloudGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#86D8FF"/>
       <stop offset="100%" stop-color="#4FB9FF"/>
     </linearGradient>
   </defs>
-  <rect width="256" height="256" rx="64" fill="#FFFFFF"/>
-  <path d="M194 128a40 40 0 0 0-78-12 32 32 0 0 0-46 28 30 30 0 0 0 4 60h112a36 36 0 0 0 8-76z" fill="url(#cloudGradient)"/>
-  <circle cx="88" cy="116" r="18" fill="#ffffff" opacity="0.7"/>
-  <circle cx="128" cy="102" r="14" fill="#ffffff" opacity="0.5"/>
-  <circle cx="160" cy="118" r="12" fill="#ffffff" opacity="0.4"/>
+  <path d="M194 128a40 40 0 0 0-78-12 32 32 0 0 0-46 28 30 30 0 0 0 4 60h112a36 36 0 0 0 8-76z" fill="url(#g)"/>
+  <circle cx="88" cy="126" r="18" fill="#ffffff" opacity="0.7"/>
+  <circle cx="128" cy="112" r="14" fill="#ffffff" opacity="0.5"/>
+  <circle cx="160" cy="128" r="12" fill="#ffffff" opacity="0.4"/>
 </svg>
